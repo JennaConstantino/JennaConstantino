@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JennaConstantino
-- 👀 I’m interested in learning new languages, boba, video games, and website developement!
+- 👀 I’m interested in learning new languages, boba, video games, and software developement!
 - 🌱 I’m currently learning C++ and C#.
 - 💞️ I’m looking to collaborate on fun funky fresh projects
 - 📫 How to reach me ...
