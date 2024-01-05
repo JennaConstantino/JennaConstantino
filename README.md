@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! I'm Jenna, a recent student studying for a Bachelor's degree in Computer Science, specializing in AI, Robotics, and Game Development. I am passionate about exploring innovative technologies, solving complex problems, and building meaningful software solutions.
+Hello there! I'm Jenna, a student studying for a Bachelor's degree in Computer Science, specializing in AI, Robotics, and Game Development. I am passionate about exploring innovative technologies, solving complex problems, and building meaningful software solutions.
 
 ## 🔧 Technologies & Tools
 
