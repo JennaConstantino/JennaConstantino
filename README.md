@@ -29,6 +29,19 @@ Feel free to explore my repositories to learn more about my work!
 - **Leadership:** Experienced in leading and organizing coding workshops and initiatives.
 - **Versatility:** Demonstrated adaptability in diverse roles, from food service to college tutoring and IT internships.
 
+## Goals
+
+- **Expand Expertise in AI and Robotics:** Continuously deepen my knowledge and hands-on experience in AI, machine learning, and robotics by exploring innovative projects and real-world applications.
+- **Contribute to Open Source:** Actively participate in open-source communities, contributing to projects that align with my interests in AI, game development, and software engineering.
+- **Build a Diverse Portfolio:** Develop a range of projects that showcase my versatility in software development, from AI-driven applications to immersive gaming experiences.
+
+## Objectives
+
+- **Complete My Bachelor's Degree:** Successfully graduate with a Bachelor's degree in Computer Science, specializing in AI, Robotics, and Game Development, and apply my learning to impactful projects.
+- **Secure a Full-Time Position:** Pursue a full-time role in software development or a related field, where I can apply my skills and contribute to innovative projects.
+- **Engage in Continuous Learning:** Stay updated with the latest technological advancements and continuously learn new tools and techniques to enhance my skills and keep up with industry trends.
+
+
 ## 🚀 Let's Connect
 
 I'm always open to collaboration and new opportunities. If you have any questions, suggestions, or just want to chat about technology, feel free to reach out!
